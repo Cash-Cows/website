@@ -1,9 +1,11 @@
 {
   "edition": 1001,
+  "itemId": "1463942436560286828186591572453891481051376686245565",
   "name": "Old Faithful",
   "image": "https://www.wearecashcows.com/images/loot/1001.png",
   "category": "Rides",
   "rarity": "Common",
+  "available": 1666231200000,
   "limit": 0,
   "attributes": [
     {

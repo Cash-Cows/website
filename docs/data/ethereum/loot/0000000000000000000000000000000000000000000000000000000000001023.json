@@ -1,9 +1,11 @@
 {
   "edition": 1023,
+  "itemId": "1496095472581566692387072638773649707483807202191037",
   "name": "The Lambo",
   "image": "https://www.wearecashcows.com/images/loot/1023.png",
   "category": "Rides",
   "rarity": "Rare",
+  "available": 1666231200000,
   "limit": 0,
   "attributes": [
     {

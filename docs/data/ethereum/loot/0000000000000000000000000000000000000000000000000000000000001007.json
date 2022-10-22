@@ -1,9 +1,11 @@
 {
   "edition": 1007,
+  "itemId": "1472711446384272245695813681450189179169312281503421",
   "name": "City Swatch",
   "image": "https://www.wearecashcows.com/images/loot/1007.png",
   "category": "Rides",
   "rarity": "Common",
+  "available": 1666918800000,
   "limit": 0,
   "attributes": [
     {

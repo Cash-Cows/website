@@ -1,9 +1,11 @@
 {
   "edition": 1002,
+  "itemId": "1465403938197617731104795257286607764071032618788541",
   "name": "Minimen",
   "image": "https://www.wearecashcows.com/images/loot/1002.png",
   "category": "Rides",
   "rarity": "Common",
+  "available": 1666231200000,
   "limit": 0,
   "attributes": [
     {

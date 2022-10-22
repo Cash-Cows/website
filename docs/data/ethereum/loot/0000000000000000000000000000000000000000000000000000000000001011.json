@@ -1,9 +1,11 @@
 {
   "edition": 1011,
+  "itemId": "1478557452933595857368628420781054311247936011675325",
   "name": "Big Bass",
   "image": "https://www.wearecashcows.com/images/loot/1011.png",
   "category": "Rides",
   "rarity": "Common",
+  "available": 1666918800000,
   "limit": 0,
   "attributes": [
     {

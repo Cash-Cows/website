@@ -1,9 +1,11 @@
 {
   "edition": 1004,
+  "itemId": "1468326941472279536941202626952040330110344483874493",
   "name": "Motocross Blazer",
   "image": "https://www.wearecashcows.com/images/loot/1004.png",
   "category": "Rides",
   "rarity": "Common",
+  "available": 1666231200000,
   "limit": 0,
   "attributes": [
     {

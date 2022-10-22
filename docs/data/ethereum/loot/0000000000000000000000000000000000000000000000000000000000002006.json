@@ -1,9 +1,11 @@
 {
   "edition": 2006,
+  "itemId": "2932751582077844260981294829333755915805588891936445",
   "name": "Wanderlust",
   "image": "https://www.wearecashcows.com/images/loot/2006.png",
   "category": "Boats",
   "rarity": "Common",
+  "available": 1666231200000,
   "limit": 0,
   "attributes": [
     {

@@ -1,9 +1,11 @@
 {
   "edition": 1022,
+  "itemId": "1494633970944235789468868953940933424464151269648061",
   "name": "Silver Ghost",
   "image": "https://www.wearecashcows.com/images/loot/1022.png",
   "category": "Rides",
   "rarity": "Rare",
+  "available": 1668387600000,
   "limit": 0,
   "attributes": [
     {

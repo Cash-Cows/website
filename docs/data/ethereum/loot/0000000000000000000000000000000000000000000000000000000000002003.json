@@ -1,9 +1,11 @@
 {
   "edition": 2003,
+  "itemId": "2928367077165851552226683774835607066746621094307517",
   "name": "Wet Dream",
   "image": "https://www.wearecashcows.com/images/loot/2003.png",
   "category": "Boats",
   "rarity": "Common",
+  "available": 1666231200000,
   "limit": 0,
   "attributes": [
     {

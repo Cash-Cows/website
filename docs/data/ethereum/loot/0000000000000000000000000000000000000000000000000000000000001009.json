@@ -1,9 +1,11 @@
 {
   "edition": 1009,
+  "itemId": "1475634449658934051532221051115621745208624146589373",
   "name": "Sand Cat",
   "image": "https://www.wearecashcows.com/images/loot/1009.png",
   "category": "Rides",
   "rarity": "Common",
+  "available": 1666918800000,
   "limit": 0,
   "attributes": [
     {

@@ -1,9 +1,11 @@
 {
   "edition": 2011,
+  "itemId": "2940059090264498775572313253497337330903868554651325",
   "name": "Contessa",
   "image": "https://www.wearecashcows.com/images/loot/2011.png",
   "category": "Boats",
   "rarity": "Rare",
+  "available": 1667264400000,
   "limit": 0,
   "attributes": [
     {

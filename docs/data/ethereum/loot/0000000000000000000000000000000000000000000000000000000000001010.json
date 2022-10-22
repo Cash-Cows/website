@@ -1,9 +1,11 @@
 {
   "edition": 1010,
+  "itemId": "1477095951296264954450424735948338028228280079132349",
   "name": "Dire Sedan",
   "image": "https://www.wearecashcows.com/images/loot/1010.png",
   "category": "Rides",
   "rarity": "Common",
+  "available": 1666918800000,
   "limit": 0,
   "attributes": [
     {

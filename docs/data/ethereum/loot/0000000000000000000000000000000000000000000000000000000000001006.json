@@ -1,9 +1,11 @@
 {
   "edition": 1006,
+  "itemId": "1471249944746941342777609996617472896149656348960445",
   "name": "Offroad Cat",
   "image": "https://www.wearecashcows.com/images/loot/1006.png",
   "category": "Rides",
   "rarity": "Common",
+  "available": 1666918800000,
   "limit": 0,
   "attributes": [
     {

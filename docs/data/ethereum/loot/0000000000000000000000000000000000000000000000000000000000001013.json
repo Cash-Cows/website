@@ -1,9 +1,11 @@
 {
   "edition": 1013,
-  "name": "Chopper",
+  "itemId": "1481480456208257663205035790446486877287247876761277",
+  "name": "The Chopper",
   "image": "https://www.wearecashcows.com/images/loot/1013.png",
   "category": "Rides",
   "rarity": "Common",
+  "available": 1667178000000,
   "limit": 0,
   "attributes": [
     {

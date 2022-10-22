@@ -1,9 +1,11 @@
 {
   "edition": 2008,
+  "itemId": "2935674585352506066817702198999188481844900757022397",
   "name": "Dream Weaver Duo",
   "image": "https://www.wearecashcows.com/images/loot/2008.png",
   "category": "Boats",
   "rarity": "Rare",
+  "available": 1667005200000,
   "limit": 0,
   "attributes": [
     {

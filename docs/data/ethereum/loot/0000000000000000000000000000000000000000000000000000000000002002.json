@@ -1,9 +1,11 @@
 {
   "edition": 2002,
+  "itemId": "2926905575528520649308480090002890783726965161764541",
   "name": "Lake Galley",
   "image": "https://www.wearecashcows.com/images/loot/2002.png",
   "category": "Boats",
   "rarity": "Common",
+  "available": 1666231200000,
   "limit": 0,
   "attributes": [
     {

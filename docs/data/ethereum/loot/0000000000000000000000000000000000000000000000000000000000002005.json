@@ -1,9 +1,11 @@
 {
   "edition": 2005,
+  "itemId": "2931290080440513358063091144501039632785932959393469",
   "name": "SuperJet",
   "image": "https://www.wearecashcows.com/images/loot/2005.png",
   "category": "Boats",
   "rarity": "Common",
+  "available": 1666231200000,
   "limit": 0,
   "attributes": [
     {

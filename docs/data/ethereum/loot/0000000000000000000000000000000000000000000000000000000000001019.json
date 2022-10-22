@@ -1,9 +1,11 @@
 {
   "edition": 1019,
+  "itemId": "1490249466032243080714257899442784575405183472019133",
   "name": "Speed Racer",
   "image": "https://www.wearecashcows.com/images/loot/1019.png",
   "category": "Rides",
   "rarity": "Common",
+  "available": 1668042000000,
   "limit": 0,
   "attributes": [
     {

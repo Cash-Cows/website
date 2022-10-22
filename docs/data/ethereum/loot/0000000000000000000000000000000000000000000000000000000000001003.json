@@ -1,9 +1,11 @@
 {
   "edition": 1003,
+  "itemId": "1466865439834948634022998942119324047090688551331517",
   "name": "Stitch",
   "image": "https://www.wearecashcows.com/images/loot/1003.png",
   "category": "Rides",
   "rarity": "Common",
+  "available": 1666231200000,
   "limit": 0,
   "attributes": [
     {
