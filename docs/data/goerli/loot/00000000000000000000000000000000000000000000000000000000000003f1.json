@@ -1,0 +1,35 @@
+{
+  "edition": 1009,
+  "itemId": "1474751187412537661545606912983415616554493616890048",
+  "name": "Sand Cat",
+  "image": "https://www.wearecashcows.com/images/loot/1009.png",
+  "category": "Rides",
+  "rarity": "Common",
+  "available": 1666918800000,
+  "limit": 0,
+  "attributes": [
+    {
+      "trait_name": "Type",
+      "value": "ATV"
+    },
+    {
+      "trait_name": "Speed",
+      "value": "130 MPH"
+    },
+    {
+      "trait_name": "Horsepower",
+      "value": "100 HP"
+    },
+    {
+      "trait_name": "Passengers",
+      "value": "2"
+    },
+    {
+      "trait_name": "Origin",
+      "value": "Japan"
+    }
+  ],
+  "pricing": {
+    "0x5E7c36f3508de82505f417395dE49a68187d1FD2": "10000000000000000000000"
+  }
+}

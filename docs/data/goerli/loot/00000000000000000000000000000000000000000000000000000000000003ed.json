@@ -1,0 +1,35 @@
+{
+  "edition": 1005,
+  "itemId": "1468905180863214049872792173652550484475869886718144",
+  "name": "Enjan",
+  "image": "https://www.wearecashcows.com/images/loot/1005.png",
+  "category": "Rides",
+  "rarity": "Common",
+  "available": 1666231200000,
+  "limit": 0,
+  "attributes": [
+    {
+      "trait_name": "Type",
+      "value": "Bike"
+    },
+    {
+      "trait_name": "Speed",
+      "value": "40 MPH"
+    },
+    {
+      "trait_name": "Horsepower",
+      "value": "70 HP"
+    },
+    {
+      "trait_name": "Passengers",
+      "value": "2"
+    },
+    {
+      "trait_name": "Origin",
+      "value": "Germany"
+    }
+  ],
+  "pricing": {
+    "0x5E7c36f3508de82505f417395dE49a68187d1FD2": "5000000000000000000000"
+  }
+}

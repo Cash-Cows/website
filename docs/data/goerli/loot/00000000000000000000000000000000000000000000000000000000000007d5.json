@@ -1,0 +1,35 @@
+{
+  "edition": 2005,
+  "itemId": "2930406818194116968076477006368833504131802429694144",
+  "name": "SuperJet",
+  "image": "https://www.wearecashcows.com/images/loot/2005.png",
+  "category": "Boats",
+  "rarity": "Common",
+  "available": 1666231200000,
+  "limit": 0,
+  "attributes": [
+    {
+      "trait_name": "Type",
+      "value": "Jet Ski"
+    },
+    {
+      "trait_name": "Speed",
+      "value": "16 Knots"
+    },
+    {
+      "trait_name": "Length",
+      "value": "3M"
+    },
+    {
+      "trait_name": "Passengers",
+      "value": "2"
+    },
+    {
+      "trait_name": "Origin",
+      "value": "Russia"
+    }
+  ],
+  "pricing": {
+    "0x5E7c36f3508de82505f417395dE49a68187d1FD2": "25000000000000000000000"
+  }
+}
