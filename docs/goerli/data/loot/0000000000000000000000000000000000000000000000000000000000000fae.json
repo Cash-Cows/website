@@ -1,0 +1,39 @@
+{
+  "edition": 4014,
+  "itemId": "5866563607591900930747679835295846090620570908532928",
+  "name": "Ice Age",
+  "image": "https://www.wearecashcows.com/images/loot/4014.png",
+  "category": "Bling",
+  "rarity": "Rare",
+  "available": 1666832400000,
+  "limit": 1,
+  "attributes": [
+    {
+      "trait_name": "Type",
+      "value": "Necklace"
+    },
+    {
+      "trait_name": "Material",
+      "value": "Gold"
+    },
+    {
+      "trait_name": "Gems",
+      "value": "Diamond"
+    },
+    {
+      "trait_name": "Karat",
+      "value": "100K"
+    },
+    {
+      "trait_name": "Weight",
+      "value": "150G"
+    },
+    {
+      "trait_name": "Origin",
+      "value": "United States"
+    }
+  ],
+  "pricing": {
+    "0x5E7c36f3508de82505f417395dE49a68187d1FD2": "1000000000000000000000000"
+  }
+}

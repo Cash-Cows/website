@@ -1,0 +1,35 @@
+{
+  "edition": 1020,
+  "itemId": "1490827705423177593645847446143294729770708874862784",
+  "name": "EvoX G6",
+  "image": "https://www.wearecashcows.com/images/loot/1020.png",
+  "category": "Rides",
+  "rarity": "Common",
+  "available": 1668042000000,
+  "limit": 0,
+  "attributes": [
+    {
+      "trait_name": "Type",
+      "value": "Car"
+    },
+    {
+      "trait_name": "Speed",
+      "value": "90 MPH"
+    },
+    {
+      "trait_name": "Horsepower",
+      "value": "260 HP"
+    },
+    {
+      "trait_name": "Passengers",
+      "value": "2"
+    },
+    {
+      "trait_name": "Origin",
+      "value": "United Emerates"
+    }
+  ],
+  "pricing": {
+    "0x5E7c36f3508de82505f417395dE49a68187d1FD2": "75000000000000000000000"
+  }
+}
